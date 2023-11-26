@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "metroparser"
+version = "0.1.0"
+description = ""
+authors = ["blacksmokezip <hanzomainer1488@gmail.com>"]
+readme = "README.md"
+packages = [{include = "metroparser"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+selenium = "^4.15.2"
+beautifulsoup4 = "^4.12.2"
+fake-useragent = "^1.4.0"
+lxml = "^4.9.3"
+argparse = "^1.4.0"
+progress = "^1.6"
+logger = "^1.4"
+
+
+[tool.poetry.group.dev.dependencies]
+flake8 = "^6.1.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

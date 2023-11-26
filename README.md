@@ -1,8 +1,10 @@
 # MetroParser
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/d2051ebeca2859cf7ae6/maintainability)](https://codeclimate.com/github/blacksmokezip/MetroParser/maintainability)
+
 ---
 
-Test assignment
+### Test assignment
 
 ---
 
